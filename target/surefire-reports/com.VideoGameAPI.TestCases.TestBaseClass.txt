@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.VideoGameAPI.TestCases.TestBaseClass
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.828 s - in com.VideoGameAPI.TestCases.TestBaseClass

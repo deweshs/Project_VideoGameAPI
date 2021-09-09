@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "RestAssuredAutomation">
+
+<test name = "TesrRestAssuredAutomation">
+ <classes>
+ <class name = "com.VideoGameAPI.TestCases.TC_GET_AllVideoGames"/>
+ <class name = "com.VideoGameAPI.TestCases.TC_POST_AddNewVideoGame"/>
+ 
+ </classes>
+
+
+</test>
+
+
+</suite>

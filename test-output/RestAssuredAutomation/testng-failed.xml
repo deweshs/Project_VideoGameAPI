@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RestAssuredAutomation]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TesrRestAssuredAutomation(failed)">
+    <classes>
+      <class name="com.VideoGameAPI.TestCases.TC_POST_AddNewVideoGame">
+        <methods>
+          <include name="setUp"/>
+          <include name="test_deleteVideoGame"/>
+        </methods>
+      </class> <!-- com.VideoGameAPI.TestCases.TC_POST_AddNewVideoGame -->
+    </classes>
+  </test> <!-- TesrRestAssuredAutomation(failed) -->
+</suite> <!-- Failed suite [RestAssuredAutomation] -->

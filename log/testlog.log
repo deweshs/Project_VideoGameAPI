@@ -1,0 +1,72 @@
+2021-09-04 00:37:35,145 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-04 00:37:38,657 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames finished****
+2021-09-04 00:42:24,535 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-04 00:43:47,777 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-04 00:44:37,433 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-04 00:45:48,559 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-04 00:46:46,445 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-04 00:46:48,868 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames finished****
+2021-09-04 05:11:16,466 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:12:34,207 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:13:53,010 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:14:07,706 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:20:25,829 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:56:23,654 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:57:32,170 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 05:59:24,899 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 06:07:30,348 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 06:15:01,052 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 06:21:37,452 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 06:23:20,201 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 06:25:00,452 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 23:06:09,020 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 23:07:34,321 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-04 23:18:18,059 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 00:02:19,500 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 00:04:03,886 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 00:48:21,236 - VideoGameAPI -INFO - ****Video Game is added****
+2021-09-05 00:48:21,377 - VideoGameAPI -INFO - ****Video Game record is deeted****
+2021-09-05 00:49:07,746 - VideoGameAPI -INFO - ****Video Game is added****
+2021-09-05 00:49:07,803 - VideoGameAPI -INFO - ****Video Game record is deleted****
+2021-09-05 00:55:00,736 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 00:57:01,718 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 00:59:33,222 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 00:59:36,486 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 00:59:37,367 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 00:59:37,502 - VideoGameAPI -INFO - ****Video Game is added****
+2021-09-05 00:59:37,538 - VideoGameAPI -INFO - ****Video Game record is deleted****
+2021-09-05 01:01:06,450 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 01:01:10,383 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:01:11,447 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:01:11,607 - VideoGameAPI -INFO - ****Video Game is added****
+2021-09-05 01:01:11,634 - VideoGameAPI -INFO - ****Video Game record is deleted****
+2021-09-05 01:04:39,709 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 01:04:42,772 - VideoGameAPI -INFO - ****Test_AddNewGame is executed successfully****
+2021-09-05 01:04:42,956 - VideoGameAPI -INFO - ****Test_AddNewGameWithDuplicateId is executed successfully****
+2021-09-05 01:04:42,990 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:04:43,779 - VideoGameAPI -INFO - *****test_getVideoGameOfSpecificId is executed successfully****
+2021-09-05 01:04:43,820 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:04:43,963 - VideoGameAPI -INFO - ****test_UpdateVideoGame is executed successfully****
+2021-09-05 01:04:44,003 - VideoGameAPI -INFO - ****Video Game is added****
+2021-09-05 01:04:44,030 - VideoGameAPI -INFO - ****Video Game record is deleted****
+2021-09-05 01:07:28,477 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 01:08:20,707 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 01:08:22,840 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames executed successfully****
+2021-09-05 01:08:35,243 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 01:08:37,626 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames executed successfully****
+2021-09-05 01:08:38,176 - VideoGameAPI -INFO - ****Test_AddNewGame is executed successfully****
+2021-09-05 01:08:38,338 - VideoGameAPI -INFO - ****Test_AddNewGameWithDuplicateId is executed successfully****
+2021-09-05 01:08:38,371 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:08:39,146 - VideoGameAPI -INFO - *****test_getVideoGameOfSpecificId is executed successfully****
+2021-09-05 01:08:39,231 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:08:39,320 - VideoGameAPI -INFO - ****test_UpdateVideoGame is executed successfully****
+2021-09-05 01:09:14,971 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames started****
+2021-09-05 01:09:17,674 - VideoGameAPI -INFO - ****Execution of test_getAllVideoGames executed successfully****
+2021-09-05 01:09:18,375 - VideoGameAPI -INFO - ****Test_AddNewGame is executed successfully****
+2021-09-05 01:09:18,530 - VideoGameAPI -INFO - ****Test_AddNewGameWithDuplicateId is executed successfully****
+2021-09-05 01:09:18,609 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:09:19,563 - VideoGameAPI -INFO - *****test_getVideoGameOfSpecificId is executed successfully****
+2021-09-05 01:09:19,606 - VideoGameAPI -INFO - ****New Video Game is added****
+2021-09-05 01:09:19,752 - VideoGameAPI -INFO - ****test_UpdateVideoGame is executed successfully****
+2021-09-05 01:09:19,780 - VideoGameAPI -INFO - ****Video Game is added****
+2021-09-05 01:09:19,808 - VideoGameAPI -INFO - ****Video Game record is deleted****
